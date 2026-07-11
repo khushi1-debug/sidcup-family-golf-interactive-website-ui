@@ -43,12 +43,13 @@ This project is a front-end clone inspired by the official **Sidcup Family Golf*
 
 ![Home](Screenshot_2026-07-11-15-18-52-72_99c04817c0de5652397fc8b56c3b3817.jpg)
 
+![About](Screenshot_2026-07-11-15-19-35-47_99c04817c0de5652397fc8b56c3b3817.jpg)
+![](Screenshot_2026-07-11-15-21-29-09_99c04817c0de5652397fc8b56c3b3817.jpg)
 
-![About](about.jpg)
+![](Screenshot_2026-07-11-15-20-49-88_99c04817c0de5652397fc8b56c3b3817.jpg)
 
-### Footer
+![Footer](Screenshot_2026-07-11-15-21-29-09_99c04817c0de5652397fc8b56c3b3817.jpg)
 
-![Footer](footer.jpg)
 ---
 
 ## 🎥 Demo Video
