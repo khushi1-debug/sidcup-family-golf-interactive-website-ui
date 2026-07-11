@@ -55,7 +55,7 @@ This project is a front-end clone inspired by the official **Sidcup Family Golf*
 
 🎥 Watch the project demo here:
 
-https://[](https://drive.google.com/file/d/1kBRzsxHtr2qOYeuSZ3FNoeqh9dEtwTvd/view?usp=drivesdk)
+https://drive.google.com/file/d/1kBRzsxHtr2qOYeuSZ3FNoeqh9dEtwTvd/view?usp=drivesdk
 
 ---
 
